@@ -1,0 +1,10 @@
+<launch>
+
+<node name="extra_2d_pose_node" pkg="openpose_ros" type="extra_2d_pose_node" respawn="false" output="screen">
+	<remap from ="image" to="/webcam/image_raw" />
+	<remap from ="odom" to="/odom" />
+	<remap from ="gimbal" to="/djiros/gimbal" />
+  </node>
+
+
+</launch>

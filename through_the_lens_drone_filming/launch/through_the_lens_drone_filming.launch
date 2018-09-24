@@ -1,0 +1,13 @@
+<launch>
+
+<node name="publish_waypoint" pkg="through_the_lens_drone_filming" type="publish_waypoint.py" respawn="false" output="screen">
+</node>
+
+<node name="map_3d" pkg="through_the_lens_drone_filming" type="map_3d.py" respawn="false" output="screen">
+</node>
+
+<node name="control_cam" pkg="through_the_lens_drone_filming" type="control_cam" respawn="false" output="screen">
+</node>
+
+</launch>
+
