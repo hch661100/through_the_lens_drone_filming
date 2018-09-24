@@ -5,7 +5,7 @@
 Our system includes two key enabling techniques: 1) subject localization based on visual-inertial fusion, and 2) through-the-lens camera planning. This is the ﬁrst drone camera system which allows users to capture human actions by manipulating the camera in a virtual environment. 
 
 
-[![Watch the video](https://github.com/hch661100/through_the_lens_drone_filming/blob/master/through_the_lens_drone_filming/resource/ui2.png | width=100)](https://youtu.be/dvaEwhLAKvg)
+[![Watch the video](https://github.com/hch661100/through_the_lens_drone_filming/blob/master/through_the_lens_drone_filming/resource/ui2.png){:height="50%" width="50%"}](https://youtu.be/dvaEwhLAKvg)
 
 The code is required to be deployed on Android device and DJI M100 (including Zenmuse X3). 
 
