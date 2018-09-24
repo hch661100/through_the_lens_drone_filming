@@ -1,11 +1,11 @@
 # Through-the-Lens Drone Filming
 
-[![Watch the video](https://github.com/hch661100/through_the_lens_drone_filming/blob/master/through_the_lens_drone_filming/resource/paper_cover.jpg)](https://youtu.be/dvaEwhLAKvg)
-
-
 "Through-the-Lens Drone Filming" represents a novel drone control system, which allows a cameraman to conveniently control the drone by manipulating a 3D model in the preview, which closes the gap between the ﬂight control and the viewpoint design. 
 
 Our system includes two key enabling techniques: 1) subject localization based on visual-inertial fusion, and 2) through-the-lens camera planning. This is the ﬁrst drone camera system which allows users to capture human actions by manipulating the camera in a virtual environment. 
+
+
+[![Watch the video](https://github.com/hch661100/through_the_lens_drone_filming/blob/master/through_the_lens_drone_filming/resource/paper_cover.jpg)](https://youtu.be/dvaEwhLAKvg)
 
 The code is required to be deployed on Android device and DJI M100 (including Zenmuse X3). 
 
@@ -32,4 +32,14 @@ roslaunch through_the_lens_drone_filming extra_2d_pose.launch
 launch drone control:
 ```
 roslaunch through_the_lens_drone_filming  through_the_lens_drone_filming.launch
+```
+### Citation
+Please cite this paper in your publications if it helps your research.
+```
+@article{huangthrough,
+  title={Through-the-Lens Drone Filming},
+  author={Huang, Chong and Yang, Zhenyu and Kong, Yan and Chen, Peng and Yang, Xin and Cheng, Kwang-Ting Tim}
+  booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  year = {2018}
+}
 ```
