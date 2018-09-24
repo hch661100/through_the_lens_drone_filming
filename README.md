@@ -8,8 +8,9 @@ The code is required to be deployed on Android device and DJI M100 (including Ze
 
 
 
-#Preparation
-
+================================================================================
+			                    Preparation
+================================================================================
 We mount Jetson TX2 and DJI Manifold on the DJI M100. The DJI Manifold is used to decode the video from Zenmuse X3 and run the flight control. Make sure that you already installed the package in https://github.com/hch661100/Manifold.
 
 The subject localization algorithm is depolyed on Jetson TX2. Before running the algorithm, and make sure that you set up the TX2 in https://github.com/hch661100/tx2.
