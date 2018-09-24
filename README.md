@@ -1,6 +1,6 @@
 # Through-the-Lens Drone Filming
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://github.com/hch661100/through_the_lens_drone_filming/blob/master/through_the_lens_drone_filming/resource/paper_cover.jpg)](https://youtu.be/dvaEwhLAKvg)
 
 
 "Through-the-Lens Drone Filming" represents a novel drone control system, which allows a cameraman to conveniently control the drone by manipulating a 3D model in the preview, which closes the gap between the ﬂight control and the viewpoint design. 
