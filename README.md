@@ -29,7 +29,11 @@ Android code: https://github.com/hch661100/through_the_lens_drone_filming/tree/m
 ```
 roslaunch through_the_lens_drone_filming extra_2d_pose.launch
 ```
-launch drone control:
+Estimate the absolute scale of the subject:
+```
+rosrun through_the_lens_drone_filming scale_estimation
+```
+Launch drone control:
 ```
 roslaunch through_the_lens_drone_filming  through_the_lens_drone_filming.launch
 ```
