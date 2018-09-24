@@ -6,9 +6,6 @@ Our system includes two key enabling techniques: 1) subject localization based o
 
 <img src="https://github.com/hch661100/through_the_lens_drone_filming/blob/master/through_the_lens_drone_filming/resource/ui2.png" width="400">
 
-
-[![Watch the video](https://github.com/hch661100/through_the_lens_drone_filming/blob/master/through_the_lens_drone_filming/resource/ui2.png)](https://youtu.be/dvaEwhLAKvg)
-
 The code is required to be deployed on Android device and DJI M100 (including Zenmuse X3). 
 
 ### Preparation	     
