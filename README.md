@@ -1,5 +1,8 @@
 # Through-the-Lens Drone Filming
 
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+
+
 "Through-the-Lens Drone Filming" represents a novel drone control system, which allows a cameraman to conveniently control the drone by manipulating a 3D model in the preview, which closes the gap between the ﬂight control and the viewpoint design. 
 
 Our system includes two key enabling techniques: 1) subject localization based on visual-inertial fusion, and 2) through-the-lens camera planning. This is the ﬁrst drone camera system which allows users to capture human actions by manipulating the camera in a virtual environment. 
@@ -19,8 +22,7 @@ $ git clone https://github.com/hch661100/through_the_lens_drone_filming.git
 $ cd ..
 $ catkin_make
 ```
-Android code installation:
-https://github.com/zcbmlijygrdwa/ThroughTheLens
+Android code: https://github.com/hch661100/through_the_lens_drone_filming/tree/master/Android
 
 ### Quick Start
 2D skeleton:
