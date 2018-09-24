@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\andoird_projects\\ThroughTheLens\\ThroughTheLens\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\log_dialog_view.xml",
+        "source": "E:\\andoird_projects\\ThroughTheLens\\ThroughTheLens\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\log_dialog_view.xml"
+    },
+    {
+        "merged": "E:\\andoird_projects\\ThroughTheLens\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_login.xml",
+        "source": "E:\\andoird_projects\\ThroughTheLens\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_login.xml"
+    },
+    {
+        "merged": "E:\\andoird_projects\\ThroughTheLens\\ThroughTheLens\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_login.xml",
+        "source": "E:\\andoird_projects\\ThroughTheLens\\ThroughTheLens\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_login.xml"
+    },
+    {
+        "merged": "E:\\andoird_projects\\ThroughTheLens\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\log_dialog_view.xml",
+        "source": "E:\\andoird_projects\\ThroughTheLens\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\log_dialog_view.xml"
+    }
+]
