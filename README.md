@@ -16,14 +16,15 @@ The subject localization algorithm is depolyed on Jetson TX2. Before running the
 ================================================================================
 		     Installation
 ================================================================================
-Catkin Build
+Catkin Build on TX2:
 
 $ cd ~/catkin_ws/src
 $ git clone https://github.com/hch661100/through_the_lens_drone_filming.git
 $ cd ..
 $ catkin_make
 
-
+Android code installation:
+https://github.com/zcbmlijygrdwa/ThroughTheLens
 ================================================================================
 		     Quick Start
 ================================================================================
